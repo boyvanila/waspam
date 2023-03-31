@@ -1,6 +1,6 @@
 # waspam
 
-* install
+* Install
 
 ```
 git clone https://github.com/boyvanila/waspam
