@@ -1,2 +1,3 @@
 # waspam
 
+# python main.py
