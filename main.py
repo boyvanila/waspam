@@ -335,7 +335,7 @@ def main():
     os.system("cls") # Clear Terminal agar CMD berwarna
     autoketik(f"Selamat datang di {merah}Spam-Wa")
     print(f"""{kuning}Author      : {hijau}Boy Vanila
-{kuning}Github      : {merah}github.com/rickyfazaa
+{kuning}Github      : {merah}github.com/boyvanila
 {kuning}Instagram   : {biru}-""")
     # Contoh : 089508226367
     print(nomor := input(f"{hijau}Masukkan Nomor Target: {putih}")) # Walrus Operator untuk inputan Nomor Target
